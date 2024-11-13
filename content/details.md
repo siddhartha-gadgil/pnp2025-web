@@ -3,51 +3,39 @@
 * __Instructor:__ [Siddhartha Gadgil](https://math.iisc.ac.in/~gadgil)
 * __E-mail:__ _siddhartha.gadgil@gmail.com_
 * __Office:__ N-15, Department of Mathematics, IISc.
-* __Timing:__ Monday, Wednesday, Friday 10:00 - 11:00 am.
-* __Venue:__ LH-5, Department of Mathematics, IISc.
-* __First meeting:__ Wednesday, August 2, 2023.
+* __Timing:__ Monday, Wednesday, Friday, 9:00-10:00 AM IST
+* __Venue:__ LH-3 (ground floor), Department of Mathematics, IISc.
+* __First meeting:__ Wednesday, January 4, 2023
 
-##### Microsoft Teams details
+#### Grading
 
-A Team for this course (within IISc) named __Introduction to Algebraic Topology 2023__ has been created. Anyone from IISc can also join using the Team code `u1hkivl`. Assignments will be submitted through Teams. 
+Course grades will be based on labs, a midterm examination, and a final project. The weights are as follows:
 
-There are Teams apps available for Windows, Linux (Debian/Ubuntu and Redhat), Mac, Android and iOS. I would encourage using the Teams chat to ask questions whenever needed.  
+* __Lab assignments:__ 20%; these will be regularly assigned.
+* __Midterm Examination:__ 30%.
+* __Final Project:__ 50%; this will be due on the date of the final examination.
 
-##### Assignment submissions
+The projects will be Lean code which can be either implementations of algorithms with proofs in Lean or formalizations of mathematical results in Lean. All code must be properly documented. There is considerable flexibility in the choice of projects, including to work collaboratively. The evaluation will be based on both the code itself and presentations of the code. In addition there will be viva sessions where the students show their knowledge of the code and related concepts.
 
-Assignments will be posted on this web site and linked in Microsoft Teams. They have to be submitted through Microsoft Teams. The ea
-siest way to do this is to write on paper, photograph or scan this and submit `pdf` or image files. It is recommended that you use a
-n app like `Adobe scan` or `Microsoft Lens` to generate a single pdf file for each assignment (instead of a collection of images).
+##### Setting up Lean 4 and Repository
 
-If you wish you can instead use `LaTeX` and submit `pdf` files.
+For details on setting up Lean 4 and repositories for assignments and projects, see the [Lean setup instructions](https://lean-lang.org/lean4/doc/quickstart.html).
 
+##### Zulip chat
 
-##### Additional Resources
+As with Lean we will use a [Zulip server](https://automathind.zulipchat.com/login/) for discussions. You can  also post on the stream by sending an email to the address to be announced.
 
-This course was [taught online](https://math.iisc.ac.in/~gadgil/introduction-algebraic-topology-2020/index.html) in 2021. The [lectures](https://math.iisc.ac.in/~gadgil/introduction-algebraic-topology-2020/all-lectures/) are online.
+#### References
 
-Note that students are responsible for all the material covered in the lectures this semester, which is likely to be more than that in the above resources. Experience also suggests that offline lectures are more effective. Thus, it is wise to use the above as supplements, not substitutes, for the lectures.
+* Jeremy Avigad, Leonardo de Moura, Soonho Kong and Sebastian Ullrich,
+_Theorem Proving in Lean 4_,
+available at [https://leanprover.github.io/theorem_proving_in_lean4/](https://leanprover.github.io/theorem_proving_in_lean4/)
 
-##### Midterm Examination
+* Jeremy Avigad,  Marijn Heule, Wojciech Nawrocki,
+_Logic and Mechanical Reasoning_,
+available at [https://avigad.github.io/lamr/](https://avigad.github.io/lamr/)
 
-__Date:__ Wednesday, September 27, 2023.
+* Jeremy Avigad, _Mathematical Logic and Computation_, Cambridge University Press 2022
 
-__Time:__ 10:00 - 11:30 am.
-
-__Venue:__ LH-5, Department of Mathematics, IISc.
-
-__Weightage:__ 40% of the total marks.
-
-__Syllabus:__ Till the lecture on Monday, September 18, 2023.
-
-##### Final Examination
-
-__Date:__ Friday, December 1, 2023.
-
-__Time:__ 9:00 am - 12:00 noon.
-
-__Venue:__ LH-5, Department of Mathematics, IISc.
-
-__Weightage:__ 50% of the total marks.
-
-__Syllabus:__ The entire course.
+* _Homotopy Type Theory: Univalent Foundations of Mathematics_,
+Institute for Advanced Studies, Princeton 2013; available at [http://homotopytypetheory.org/book/](http://homotopytypetheory.org/book/)
