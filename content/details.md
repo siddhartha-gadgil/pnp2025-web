@@ -3,19 +3,24 @@
 * __Instructor:__ [Siddhartha Gadgil](https://math.iisc.ac.in/~gadgil)
 * __E-mail:__ _siddhartha.gadgil@gmail.com_
 * __Office:__ N-15, Department of Mathematics, IISc.
-* __Timing:__ Monday, Wednesday, Friday, 9:00-10:00 AM IST
+* __Timing:__ TBA
 * __Venue:__ LH-3 (ground floor), Department of Mathematics, IISc.
-* __First meeting:__ Wednesday, January 4, 2023
+* __First meeting:__ TBA
+
+#### Projects
+
+A core component of the course is the project. This can be done individually or in groups. However, while a project is "owned" by a group or individual, collaborative live-coding will be done in lectures on projects with everyone contributing. Indeed, many concepts will be explained and illustrates through code relevant to the projects.
+
+The projects will be Lean code which can be either implementations of algorithms with proofs in Lean or formalizations of mathematical results in Lean.  There is considerable flexibility in the choice of projects. However, the topic of the project must be chosen to be useful to the Lean ecosystem, so should avoid dulicating existing code. Further, all code must be properly documented.
 
 #### Grading
 
-Course grades will be based on labs, a midterm examination, and a final project. The weights are as follows:
+Course grades will be based on labs, a midterm examination, and the final project. The weights are as follows:
 
 * __Lab assignments:__ 20%; these will be regularly assigned.
 * __Midterm Examination:__ 30%.
 * __Final Project:__ 50%; this will be due on the date of the final examination.
 
-The projects will be Lean code which can be either implementations of algorithms with proofs in Lean or formalizations of mathematical results in Lean. All code must be properly documented. There is considerable flexibility in the choice of projects, including to work collaboratively. The evaluation will be based on both the code itself and presentations of the code. In addition there will be viva sessions where the students show their knowledge of the code and related concepts.
 
 ##### Setting up Lean 4 and Repository
 
@@ -23,9 +28,13 @@ For details on setting up Lean 4 and repositories for assignments and projects, 
 
 ##### Zulip chat
 
-As with Lean we will use a [Zulip server](https://automathind.zulipchat.com/login/) for discussions. You can  also post on the stream by sending an email to the address to be announced.
+As with Lean we will use a [Zulip server](https://automathind.zulipchat.com/login/) for discussions. You can  also post on the stream by sending an email to the [channel address](mailto:proofs-and-programs-2025.cfda7aa3ebaafd84b15154b5266978db.show-sender@streams.zulipchat.com).
 
 #### References
+
+* Theorem Proving in Lean 4, available [online](https://lean-lang.org/theorem_proving_in_lean4/).
+
+* Mathematics in Lean, available [online](https://leanprover-community.github.io/mathematics_in_lean/index.html).
 
 * Jeremy Avigad, Leonardo de Moura, Soonho Kong and Sebastian Ullrich,
 _Theorem Proving in Lean 4_,
