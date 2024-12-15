@@ -3,7 +3,7 @@
 * __Instructor:__ [Siddhartha Gadgil](https://math.iisc.ac.in/~gadgil)
 * __E-mail:__ _siddhartha.gadgil@gmail.com_
 * __Office:__ N-15, Department of Mathematics, IISc.
-* __Timing:__ TBA
+* __Timing:__ Wednesday, Friday 8:30-10:00 am
 * __Venue:__ LH-3 (ground floor), Department of Mathematics, IISc.
 * __First meeting:__ TBA
 

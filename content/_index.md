@@ -6,7 +6,7 @@ Lean can also be viewed as a programming language. From this viwepoint it is ple
 
 While this course will not involve AI/ML directly, in many ways Interactive Theorem Proving perfectly complements Deep Learning, in particular Generative AI. Generative AI is powerful but unreliable, so combining with Interactive Theorem Proving allows checking the results of Generative AI. Indeed many systems, such as AlphaProof, combine Deep Learning and Interactive Theorem Proving.
 
-#### Prerequisites
+##### Prerequisites
 
 The only prerequisites for this course are:
 
