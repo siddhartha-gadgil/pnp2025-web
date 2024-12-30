@@ -5,7 +5,7 @@
 * __Office:__ N-15, Department of Mathematics, IISc.
 * __Timing:__ Wednesday, Friday 8:30-10:00 am
 * __Venue:__ LH-3 (ground floor), Department of Mathematics, IISc.
-* __First meeting:__ TBA
+* __First meeting:__ Friday, January 3, 2025.
 
 #### Projects
 
