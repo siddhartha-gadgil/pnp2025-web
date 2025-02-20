@@ -1,6 +1,6 @@
 ---
 title: "Inductive Types; Typeclasses"
-date: 2025-02-24T00:51:30Z
+date: 2025-02-25T00:51:30Z
 draft: false
 ---
 
