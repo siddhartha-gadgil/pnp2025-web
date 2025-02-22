@@ -7,6 +7,13 @@
 * __Venue:__ LH-3 (ground floor), Department of Mathematics, IISc.
 * __First meeting:__ Friday, January 3, 2025.
 
+#### Midterm Examination
+
+* __Date:__ Wednesday, Febraury 26, 2025.
+* __Timing:__ 8:45 am to 9:45 am
+* __Venue:__ LH-3, Department of Mathematics, IISc.
+* __Syllabus:__ Material covered in lectures before the midterm.
+
 #### Projects
 
 A core component of the course is the project. This can be done individually or in groups. However, while a project is "owned" by a group or individual, collaborative live-coding will be done in lectures on projects with everyone contributing. Indeed, many concepts will be explained and illustrates through code relevant to the projects.
