@@ -18,7 +18,9 @@
 
 A core component of the course is the project. This can be done individually or in groups. However, while a project is "owned" by a group or individual, collaborative live-coding will be done in lectures on projects with everyone contributing. Indeed, many concepts will be explained and illustrates through code relevant to the projects.
 
-The projects will be Lean code which can be either implementations of algorithms with proofs in Lean or formalizations of mathematical results in Lean.  There is considerable flexibility in the choice of projects. However, the topic of the project must be chosen to be useful to the Lean ecosystem, so should avoid dulicating existing code. Further, all code must be properly documented.
+The projects will be Lean code which can be either implementations of algorithms with proofs in Lean or formalizations of mathematical results in Lean.  There is considerable flexibility in the choice of projects. However, the topic of the project must be chosen to be useful to the Lean ecosystem, so should avoid dulicating existing code. Further, all code must be properly documented. To help choose, I have compiled some [suggested projects](./projects/index.html).
+
+When starting the project, the goal should be clearly stated after discussion with the course instructor. In case a project is ambitious, an intermediate step can be defined as the target goal with a stretch goal going beyond this. Failing to meet the target will mean a reduction in grade, as will incomplete or unclear documentation.
 
 #### Grading
 
